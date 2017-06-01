@@ -11,4 +11,10 @@ class DocumentController {
 		int y;
 		int z;
 	}
+
+	public otherMethodÂ{
+		line A;
+		line B;
+		line C;
+	}
 }
